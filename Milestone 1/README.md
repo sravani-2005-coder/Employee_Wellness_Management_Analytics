@@ -43,16 +43,6 @@ This milestone focuses on building a secure **User Authentication Module** using
 5. If the password is forgotten, use the **Forgot Password** page to receive an OTP and reset the password.
 6. After successful login, the user is redirected to the Dashboard/CSV Upload page.
 
-## Screenshots
-
-The `screenshots` folder contains images of:
-
-* Home Page
-* Sign Up Page
-* Login Page
-* Forgot Password Page
-* Dashboard / CSV Upload Page
-* Neon PostgreSQL Database
 
 ## Author
 
