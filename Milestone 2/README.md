@@ -112,10 +112,6 @@ These intermediate results help users understand how the raw input is transforme
 
 ---
 
-# Current Limitations
 
-* The conversational wellness chatbot currently performs best with English interactions.
-* Multilingual preprocessing is supported for uploaded text, but multilingual conversational responses are still being enhanced.
-* Language-specific lemmatization depends on the availability of NLP models for the detected language.
 
 
